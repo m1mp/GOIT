@@ -1,0 +1,224 @@
+body {
+  background-color: #e5e5e5;
+  margin-top: 32px;
+  margin-bottom: 48px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Outfit", sans-serif;
+}
+h2 {
+  font-size: 35px;
+}
+.Front-End {
+  margin-bottom: 18px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 18px 0;
+}
+.Main {
+  padding: 80px 192px 64px 88px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #ffff;
+  width: 1200px;
+  margin: 0 auto;
+}
+.aside {
+  width: 370px;
+  margin-left: 25px;
+  margin-top: 8px;
+  background-color: #e0ebfe;
+}
+.photo {
+  margin-top: 40px;
+}
+.li {
+  color: #6d9bf5;
+}
+.contact,
+.Tech,
+.Soft {
+  margin-top: 48px;
+  margin-left: 40px;
+}
+.sidebar-text {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #161d2a;
+}
+.type {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+  margin-right: 8px;
+}
+.contact-item {
+  margin: 0;
+}
+.tel {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+  text-decoration: none;
+}
+.mail {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #2979ff;
+}
+.ul {
+  margin: 0%;
+  padding: 0 0 0 20px;
+}
+.li-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+.ul-soft {
+  margin: 0%;
+  padding: 0 0 0 20px;
+}
+.about {
+  margin: 0%;
+  margin-bottom: 64px;
+}
+.name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+}
+.main-item {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.Project {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin: 0%;
+  margin-bottom: 8px;
+}
+.li1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.site {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: underline;
+
+  color: #005fff;
+}
+.span1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.ol1 {
+  padding: 0 0 0 12px;
+  margin: 0%;
+  margin-right: 84px;
+  margin-bottom: 51px;
+}
+.Work-Exp {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+}
+.Front {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+.Free {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6d9bf5;
+}
+.date {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 8px;
+}
+.li2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.span2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.ul2 {
+  padding: 0%;
+  margin: 0%;
+  padding-left: 14px;
+}
+.Manager {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #000000;
+  margin-bottom: 11px;
+}
+.National {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6d9bf5;
+  margin: 12px 0px 12px 0px;
+}
+.Management {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-top: 11px;
+}
